@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Jitareena B. Das 👋
 
-<!--
-**JitareenaBD/JitareenaBD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering | AI & Machine Learning
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student passionate about exploring technology and building practical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Areas of Interest
+- Artificial Intelligence & Machine Learning
+- Internet of Things (IoT)
+- Computer Vision
+- Hardware & Software Integration
+- Web Development
+- Open-Source Contributions
+
+### 🤝 Collaboration
+I enjoy working in teams, experimenting with new technologies, learning through challenges, and contributing to innovative projects.
+
+### 🌱 Currently
+Exploring new technologies, improving my technical skills, and building solutions to real-world problems.
