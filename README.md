@@ -1,4 +1,4 @@
-# Hi, I'm Jitareena B. Das 👋
+# Hi, I'm Jitareena
 
 ### Computer Science Engineering | AI & Machine Learning
 
